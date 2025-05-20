@@ -1,73 +1,70 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
+<h1 align="center">Salut 👋, je suis <span style="color:#00bfff;">Aycha Awini</span></h1>
+<h3 align="center">🚀 Développeuse Full Stack | Créatrice de solutions digitales intelligentes</h3>
 
-</head>
-<body style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aychaawini&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-  <h1>👋 Salut, je suis <strong>Aycha Awini</strong></h1>
-  <h2>🚀 Développeuse Full Stack | Créatrice de solutions digitales intelligentes</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aycha-awini">
+    <img src="https://img.shields.io/badge/LinkedIn-Aycha%20Awini-blue?logo=linkedin" />
+  </a>
+  <a href="mailto:a.awini@myu.universitecentrale.tn">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+  </a>
+</p>
 
-  <p><em><strong>Profile views</strong></em></p>
+---
 
-  <hr>
+### 👩‍💻 Qui suis-je ?
 
-  <h3>👩‍💻 Qui suis-je ?</h3>
-  <ul>
-    <li>💡 Développeuse passionnée par l'innovation et l'analyse de donnees .</li>
-    <li>🎓 Titulaire d'une <strong>licence en Big Data & Analyse de Données</strong>.</li>
-    <li>🎯 Ma mission ? Transformer vos idées en applications fluides, esthétiques et performantes.</li>
-  </ul>
+💡 Développeuse passionnée par l'innovation et l'analyse de données.  
+🎓 Titulaire d'une **licence en Big Data & Analyse de Données**.  
+🎯 Ma mission ? Transformer vos idées en applications fluides, esthétiques et performantes.
 
-  <h3>🧠 Technologies maîtrisées</h3>
-  <ul>
-    <li>python, java, matlab,spark</li>
-    <li>HTML, CSS, JavaScript</li>
-  </ul>
+- 🧠 Technologies maîtrisées : `Python`, `Java`, `MATLAB`, `Spark`, `HTML`, `CSS`, `JavaScript`
+- 🛠️ Autres compétences : Git, Figma, UI/UX, MySQL, PostgreSQL, Linux
+- 📫 Me contacter : **a.awini@myu.universitecentrale.tn**
+- ✍️ Fun fact : Je code avec une tasse de café... mais mes bugs sont souvent causés par une absence de sucre 😄
 
-  <h3>🛠️ Autres compétences</h3>
-  <ul>
-    <li>Git, Figma, UI/UX</li>
-    <li>MySQL, PostgreSQL</li>
-    <li>Environnement Linux</li>
-  </ul>
+---
 
-  <h3>📫 Me contacter</h3>
-  <p>
-    📧 <a href="mailto:a.awini@myu.universitecentrale.tn">a.awini@myu.universitecentrale.tn</a>
-  </p>
+### 🎯 Projets récents
 
-  <h3>✍️ Fun fact</h3>
-  <p>Je code avec une tasse de café... mais mes bugs sont souvent causés par une absence de sucre 😄</p>
+📊 **Student Performance**  
+Visualisation Power BI + prédiction des performances étudiantes avec Machine Learning intégré à Django.
 
-  <h3>🎯 Projets récents</h3>
-  <ul>
-   
-    <li><strong>📊 Student Performance :</strong> Visualisation Power BI + prédiction des performances étudiantes avec Machine Learning intégré à Django.</li>
-  </ul>
+---
 
-  <h3>📈 Objectifs pour 2025</h3>
-  <ul>
-    <li>🚀 Publier ma première application mobile en production</li>
-    <li>👩‍🏫 Partager du contenu tech et pédagogique sur GitHub</li>
-    <li>🌍 Contribuer à des projets open source collaboratifs</li>
-    <li>🔧 Monter en compétence sur DevOps & sécurité web</li>
-  </ul>
+### 📈 Objectifs pour 2025
 
-  <h3>🧰 Mes outils préférés</h3>
-  <p>VS Code, GitHub, Power BI, Figma, Jupyter, Postman</p>
+- 🚀 Publier ma première application mobile en production  
+- 👩‍🏫 Partager du contenu tech et pédagogique sur GitHub  
+- 🌍 Contribuer à des projets open source collaboratifs  
+- 🔧 Monter en compétence sur DevOps & sécurité web  
 
-  <h3>📊 Mes Statistiques GitHub</h3>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=aychaawini&show_icons=true&theme=default" alt="GitHub Stats" style="max-width: 100%;">
-  </p>
+---
 
-  <h3>🌐 Me retrouver ailleurs</h3>
-  <ul>
-    <li><a href="https://www.linkedin.com/in/aycha-awini">LinkedIn</a></li>
-    <li><a href="https://github.com/aychaawini">GitHub</a></li>
-  </ul>
+### 🧰 Mes outils préférés
 
-</body>
-</html>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,figma,linux,git,github,mysql,postgres,vscode,jupyter,powerbi" />
+</p>
+
+---
+
+### 📊 Mes Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aychaawini&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🌐 Me retrouver ailleurs
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aycha-awini"><img src="https://img.shields.io/badge/LinkedIn-Aycha%20Awini-blue?logo=linkedin" /></a>
+  <a href="https://github.com/aychaawini"><img src="https://img.shields.io/badge/GitHub-aychaawini-black?logo=github" /></a>
+  <a href="mailto:a.awini@myu.universitecentrale.tn"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" /></a>
+</p>
