@@ -51,13 +51,8 @@ Visualisation Power BI + prédiction des performances étudiantes avec Machine L
   <img src="https://skillicons.dev/icons?i=python,java,html,css,js,figma,linux,git,github,mysql,postgres,vscode,jupyter,powerbi" />
 </p>
 
----
 
-### 📊 Mes Statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aychaawini&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
 
 ---
 
